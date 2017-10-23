@@ -3,8 +3,8 @@ project (Tutorial)
 # The version number
 set (Tutorial_VERSION_MAJOR 1)
 set (Tutorial_VERSION_MINOR 0)
-set ( PROJECT_SOURCE_DIR /home/yzdai/gw )
-set ( PROJECT_BINARY_DIR /home/yzdai/gw/cmake )
+set ( PROJECT_SOURCE_DIR /home/yzdai/gw/cmake_tutorial)
+set ( PROJECT_BINARY_DIR /home/yzdai/gw/cmake_tutorial/bin )
 
 # should we use our own math functions?
 option (USE_MYMATH
